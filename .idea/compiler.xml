@@ -9,9 +9,13 @@
         <module name="Lesson_3" />
         <module name="Lesson_4" />
         <module name="Lesson_5" />
+        <module name="Lesson_6" />
         <module name="Lesson_1" />
         <module name="Lesson_2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Lesson_7" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
