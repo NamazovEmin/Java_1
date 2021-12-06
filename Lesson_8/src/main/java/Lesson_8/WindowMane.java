@@ -1,6 +1,6 @@
 package Lesson_8;
 
-
+// Реализация польской записи
 import org.apache.commons.lang3.ArrayUtils;
 import javax.swing.*;
 //ОБРАТИТЕ ВНИМАНИЕ!
