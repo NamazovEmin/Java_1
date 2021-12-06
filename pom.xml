@@ -17,11 +17,15 @@
         <module>Lesson_6</module>
         <module>Lesson_7</module>
         <module>Lesson_7</module>
+        <module>Lesson_8</module>
     </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
+
+
+
 
 </project>
